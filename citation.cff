@@ -1,9 +1,9 @@
 cff-version: 1.2.0
-message: "If you want to cite this repository, you can use the following syntax:"
+message: "Si quiere citar este repositorio, usa el siguiente sintaxis:"
 authors:
-  - family-names: Naqvi
-    given-names: Asjad
+  - family-names: Sir Bernabé
+    given-names: Huamanculí
     orcid: https://orcid.org/0000-0002-0986-6009
-title: "Notes on the DiD literature"
-version: Nov 2022
-date-released: 2022-09-11
+title: "HasbLab"
+version: Junio 2024
+date-released: 2024-06-18
