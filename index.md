@@ -7,9 +7,7 @@ image: "/assets/images/fondo.png"
 permalink: /
 ---
 
-<img src="../assets/images/fondo.png" alt="Fondo">
-
-
+<img src="/assets/images/fondo.png" alt="Fondo" width="783" height="287">
 
 # **BIENVENIDOS!**
 
