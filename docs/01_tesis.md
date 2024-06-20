@@ -5,7 +5,7 @@ image: "../../../assets/images/fondo.png"
 nav_order: 2
 ---
 
-![w:450 h:250](assets/images/fondo.png)
+![Fondo](/assets/images/fondo.png)
 
 # **TESIS PREGRADO**
 

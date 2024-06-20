@@ -4,6 +4,8 @@ title: Capacitación en Softwre
 image: "../../../assets/images/fondo.png"
 nav_order: 4
 ---
+![Fondo](/assets/images/soft.png)
+
 # **Capacitación en Softwre**
 
 **Capacitación en Software y Manejo de Bases de Datos**
