@@ -6,7 +6,9 @@ description: "Bienvenidos a HASBLab."
 image: "/assets/images/fondo.png"
 permalink: /
 ---
-<img src="../../../assets/images/fondo.png">
+
+<img src="../assets/images/fondo.png" alt="Fondo">
+
 
 
 # **BIENVENIDOS!**
