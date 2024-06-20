@@ -2,14 +2,13 @@
 layout: default
 title: HASBLab
 nav_order: 1
-description: "Bienvenidos a HASBLab."
-image: "/assets/images/fondo.png"
+description: "Bienvenidos a HASBLab"
+image: "/assets/images/hasb.png"
 permalink: /
 ---
+![Fondo](/assets/images/fondo.png)
 
-<img src="/assets/images/fondo.png" alt="Fondo" width="783" height="287">
-
-# **BIENVENIDOS!**
+# **Bienvenidos!**
 
 Somos un grupo de especialistas en investigación comprometidos con tu éxito académico. Ofrecemos servicios de asesoría en investigación científica, análisis estadístico, econométrico y manejo de bases de datos en diversas áreas del conocimiento. Nuestro objetivo es guiarte paso a paso en el desarrollo de tu proyecto de tesis o trabajo de investigación.
 
