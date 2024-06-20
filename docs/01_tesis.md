@@ -1,12 +1,13 @@
 ---
 layout: default
-title: ASESORÍ DE TESIS
+title: Asesoría de Tesis
 image: "../../../assets/images/fondo.png"
 nav_order: 2
 ---
-![w:450 h:250](assets\images\fondo.png)
 
-# TESIS PREGRADO
+![w:450 h:250](assets/images/fondo.png)
+
+# **TESIS PREGRADO**
 
 Ofrecemos servicios de asesoría y elaboración de proyectos y borradores de tesis, brindando atención personalizada durante todo el proceso de desarrollo de tu investigación o tesis.
 
@@ -20,7 +21,7 @@ Ofrecemos servicios de asesoría y elaboración de proyectos y borradores de tes
 - Psicología
 - Derecho y Ciencias Políticas
 
-# TESIS POSGRADO
+# **TESIS POSGRADO**
 
 **Servicios de Asesoría y Elaboración de Tesis**
 

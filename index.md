@@ -8,7 +8,8 @@ permalink: /
 ---
 <img src="../../../assets/images/fondo.png">
 
-# Bienvenidos!
+
+# **BIENVENIDOS!**
 
 Somos un grupo de especialistas en investigación comprometidos con tu éxito académico. Ofrecemos servicios de asesoría en investigación científica, análisis estadístico, econométrico y manejo de bases de datos en diversas áreas del conocimiento. Nuestro objetivo es guiarte paso a paso en el desarrollo de tu proyecto de tesis o trabajo de investigación.
 
@@ -18,7 +19,7 @@ Somos un grupo de especialistas en investigación comprometidos con tu éxito ac
 
 ---
 
-# Servicios que ofrecemos
+# **Servicios que ofrecemos**
 
 - Asesoría personalizada en la elección del tema.
 - Orientación en la estructuración y redacción de tu tesis.
@@ -28,7 +29,7 @@ Somos un grupo de especialistas en investigación comprometidos con tu éxito ac
 - Estimación de modelos econométricos.
 - Preparación para la defensa de tu tesis.
 
-# Beneficios de trabajar con nosotros
+# **Beneficios de trabajar con nosotros**
 
 - Asesores con experiencia en una amplia gama de disciplinas.
 - Flexibilidad de horarios para adaptarnos a tu ritmo de vida.
@@ -39,4 +40,4 @@ Somos un grupo de especialistas en investigación comprometidos con tu éxito ac
 
 ---
 
-[Contáctanos WhatsApp](https://wa.me/message/CGKEXJDOX4NMB1 "Click aquí")
+[**Contáctanos WhatsApp**](https://wa.me/message/CGKEXJDOX4NMB1 "Click aquí")

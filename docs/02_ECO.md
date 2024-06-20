@@ -1,10 +1,10 @@
 ---
 #layout: default
-#title: Analisis de datos 
+#title: Analisis estadístico 
 #image: "../../../assets/images/fondo.png"
 #nav_order: 3
 
-layout: about
+layout: default
 title: Análisis de datos
 description: 
 
@@ -15,7 +15,8 @@ profile:
 
 nav_order: 3
 ---
-<img src="../../../assets/images/Logo.png" height="300">
+
+<img src="../../../assets/images/Logo.png">
 
 # ANÁLISIS ESTADÍSTICO Y ECONOMÉTRICO
 
