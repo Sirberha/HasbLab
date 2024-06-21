@@ -4,7 +4,7 @@ title: Asesoría de Tesis
 image: "../../../assets/images/hasb.png"
 nav_order: 2
 ---
-![Fondo](/assets/images/fondo.png)
+![Fondo](../assets/images/fondo.png)
 
 # **TESIS PREGRADO**
 
