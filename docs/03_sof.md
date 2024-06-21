@@ -4,7 +4,7 @@ title: Capacitación en Softwre
 image: "../../../assets/images/hasb.png"
 nav_order: 4
 ---
-<img src="../assets/images/soft.png" height="350" width="800">
+<img src="../assets/images/soft.png" height="350" width="700">
 
 
 # **Capacitación en Softwre**
