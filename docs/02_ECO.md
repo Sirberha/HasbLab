@@ -10,12 +10,11 @@ description:
 
 profile:
   align: right
-  image: "../../../assets/images/fondoSIR_final.png"
+  image: "../../../assets/images/hasb.png"
   image_cicular: false # crops the image to make it circular
 
 nav_order: 3
 ---
-
 ![Fondo](/assets/images/Logo.png)
 
 # ANÁLISIS ESTADÍSTICO Y ECONOMÉTRICO

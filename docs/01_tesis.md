@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Asesoría de Tesis
-image: "../../../assets/images/fondo.png"
+image: "../../../assets/images/hasb.png"
 nav_order: 2
 ---
-
 ![Fondo](/assets/images/fondo.png)
 
 # **TESIS PREGRADO**
