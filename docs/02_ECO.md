@@ -15,7 +15,7 @@ profile:
 
 nav_order: 3
 ---
-![Fondo](../assets/images/Logo.png)
+![Fondo](../assets/images/FLogo.png)
 
 # ANÁLISIS ESTADÍSTICO Y ECONOMÉTRICO
 
