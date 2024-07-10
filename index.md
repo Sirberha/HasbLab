@@ -39,4 +39,4 @@ Somos un grupo de especialistas en investigación comprometidos con tu éxito ac
 
 ---
 
-[**Contáctanos WhatsApp**](https://wa.me/message/CGKEXJDOX4NMB1 "Click aquí")
+ Haz Click [**Contáctanos WhatsApp**](https://wa.me/message/CGKEXJDOX4NMB1 "Click aquí") o Llama a **956231445**
